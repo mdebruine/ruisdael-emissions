@@ -1,8 +1,8 @@
 startyear   2017
 startmonth     8
-startday      21
+startday      19
 starthour      0
-runlength      1
+runlength     24
 
 xmin   910000
 xmax  1082600
