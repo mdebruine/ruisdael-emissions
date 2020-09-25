@@ -1,0 +1,14 @@
+startyear   2017
+startmonth     8
+startday      21
+starthour      0
+runlength      1
+
+xmin   910000
+xmax  1082600
+ymin   940000
+ymax  1055000
+zmin  0
+zmax  200
+
+tracer co2 1_power 1 2_residential_commercial 2 3_industrial_combustion 3 4_industrial_processes 4 5_fossil_fuels 5 7_road 7 8_mobile 8 9_waste 9 10_agriculture 10
